@@ -17,6 +17,31 @@ Application Security & Cloud Security consultant, currently expanding into AI/LL
 
 🔗 [eyemnv.com](https://eyemnv.com) · [LinkedIn](https://www.linkedin.com/in/eyemnv/)
 
-### GitHub Contributions - 2025
+<div align="center">
 
-![My contributions](https://green-wall.leoku.dev/api/og/share/eyemnv?year=2025)
+### Toolbox
+
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,docker,aws,azure,mysql,nginx&theme=dark" alt="Skills" />
+
+</div>
+
+<div align="center">
+
+### GitHub Stats
+
+<table>
+<tr>
+<td><img height="165em" src="https://github-readme-stats.vercel.app/api?username=eyemnv&show_icons=true&count_private=false&theme=transparent&hide_border=true&title_color=2DD4BF&icon_color=2DD4BF&text_color=8b949e" /></td>
+<td><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyemnv&layout=compact&theme=transparent&hide_border=true&title_color=2DD4BF&text_color=8b949e" /></td>
+</tr>
+</table>
+
+</div>
+
+### Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eyemnv/eyemnv/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eyemnv/eyemnv/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating through eyemnv's contribution graph" src="https://raw.githubusercontent.com/eyemnv/eyemnv/output/github-contribution-grid-snake.svg" />
+</picture>
