@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=900&color=2DD4BF&center=true&vCenter=true&width=680&height=40&lines=%24+whoami;naveen+-+appsec+%2F+cloud+security+%2F+ai+security;%24+cat+current_focus.txt;MCP+tool+poisoning%2C+prompt+injection%2C+RAG+pipeline+security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=900&color=2DD4BF&center=true&vCenter=true&width=680&height=40&lines=%24+whoami;eyemnv;%24+cat+role.txt;AppSec+%2B+Cloud+%2B+AI+Security+Consultant;%24+cat+focus.txt;MCP+tool+poisoning%2C+prompt+injection%2C+RAG+pipeline+security" alt="Typing SVG" />
 
 </div>
 
@@ -16,27 +16,6 @@ Application Security & Cloud Security consultant, currently expanding into AI/LL
 **Recent work:** [mcp-tool-poisoning-toolkit](https://github.com/eyemnv/mcp-tool-poisoning-toolkit) - a vulnerable MCP server + detector demonstrating tool-poisoning attacks.
 
 🔗 [eyemnv.com](https://eyemnv.com) · [LinkedIn](https://www.linkedin.com/in/eyemnv/)
-
-<div align="center">
-
-### Toolbox
-
-<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,docker,aws,azure,mysql,nginx&theme=dark" alt="Skills" />
-
-</div>
-
-<div align="center">
-
-### GitHub Stats
-
-<table>
-<tr>
-<td><img height="165em" src="https://github-readme-stats.vercel.app/api?username=eyemnv&show_icons=true&count_private=false&theme=transparent&hide_border=true&title_color=2DD4BF&icon_color=2DD4BF&text_color=8b949e" /></td>
-<td><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyemnv&layout=compact&theme=transparent&hide_border=true&title_color=2DD4BF&text_color=8b949e" /></td>
-</tr>
-</table>
-
-</div>
 
 ### Contribution Activity
 
